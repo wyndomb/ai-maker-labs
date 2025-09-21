@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:aimaker.substack.com)",
+      "Bash(mkdir:*)",
+      "Bash(claude doctor)",
+      "Bash(claude auth status)",
+      "Bash(claude auth login)",
+      "Bash(claude setup-token)",
+      "mcp__firecrawl-mcp__firecrawl_search",
+      "mcp__firecrawl-mcp__firecrawl_scrape",
+      "mcp__perplexity-ask__perplexity_ask"
+    ],
+    "deny": []
+  },
+  "enabledMcpjsonServers": [
+    "firecrawl-mcp",
+    "perplexity-ask"
+  ]
+}
