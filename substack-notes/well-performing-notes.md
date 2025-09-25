@@ -108,16 +108,60 @@ I've been using a lot of no-code AI tools such as v0, Lovable, Cursor, Replit, a
 
 But my workflow is much simpler now:
 
-1) Prompt to UI: Lovable just because their UI output is just so good!
+1. Prompt to UI: Lovable just because their UI output is just so good!
 
-2) Push the code to Github
+2. Push the code to Github
 
-3) Clone repo to Cursor
+3. Clone repo to Cursor
 
 That's it.
 
 You can skip bullshit from other tools and just use these two.
 
 If you don't like Cursor, then Replit might be a better alternative!
+
+--
+
+I built an AI system that argues with itself about my decisions.
+
+One optimistic, one pessimistic.
+
+Same input, opposite perspectives.
+
+The tension between their responses reveals what I'm actually trying to solve.
+
+Sometimes the best thinking happens when you engineer disagreement.
+
+--
+
+I trained AI to be my personal contrarian:
+
+Every idea I'm excited about, I ask: "What would kill this?"
+
+Every strategy I'm confident in: "Where is this most likely to fail?"
+
+Every decision I've made: "What assumptions am I not questioning?"
+
+The best AI isn't the one that agrees with you—it's the one that makes you think harder.
+
+--
+
+Most people ask AI: "What should I do?"
+
+Better question: "What am I avoiding thinking about?"
+
+AI becomes a mirror for your intellectual blind spots.
+
+The resistance you feel to certain questions is exactly where the breakthrough lives.
+
+--
+
+AI turned every project into a masterclass in clear communication.
+
+If I can't explain what I want clearly enough for AI to help, that's my signal the idea isn't ready yet.
+
+But when I can articulate it clearly, AI helps me refine and develop it further.
+
+Clear communication became a requirement, not a nice-to-have.
 
 [Continue with remaining well-performing notes...]

@@ -16,5 +16,7 @@
   "enabledMcpjsonServers": [
     "firecrawl-mcp",
     "perplexity-ask"
-  ]
+  ],
+  "outputStyle": "ai-maker-voice",
+  "enableAllProjectMcpServers": true
 }

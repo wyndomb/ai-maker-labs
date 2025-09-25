@@ -327,8 +327,8 @@ The future belongs not to those who can make everything, but to those who choose
 
 –
 
-The weirdest thing about working with AI: it forces you to become articulate about your own thinking process. 
-You can't just "vibe" your way through problems anymore as you have to explain your reasoning clearly enough for a machine to understand. 
+The weirdest thing about working with AI: it forces you to become articulate about your own thinking process.
+You can't just "vibe" your way through problems anymore as you have to explain your reasoning clearly enough for a machine to understand.
 This external pressure made my internal dialogue sharper and more intentional.
 
 –
@@ -353,13 +353,13 @@ The pessimist ("What could go wrong?")
 The economist ("What are the trade-offs?")
 The historian ("What patterns repeat?")
 The contrarian ("What if the opposite were true?")
-One perspective = bias. 
+One perspective = bias.
 Five perspectives? Wisdom.
 
 –
 
-AI changed how fast I metabolize ideas. 
-I used to sit with concepts for weeks before acting. 
+AI changed how fast I metabolize ideas.
+I used to sit with concepts for weeks before acting.
 Now I can explore, test, and iterate within hours. Ideas move from "interesting" to "implemented" at light speed.
 Now the bottleneck isn't execution—it's deciding what's worth executing.
 
@@ -369,3 +369,18 @@ Everyone's using AI to create more content.
 I'm using it to create less, better content.
 When creating becomes effortless, the real skill is knowing what NOT to create.
 The future belongs not to those who can make everything, but to those who choose to make something that matters.
+
+-
+
+Before AI: 'I can't start this project until I have the perfect vision.'
+After AI: 'Let me sketch out this messy idea and see what comes out.'
+AI became my creative safety net—suddenly every rough draft felt like a starting point, not a failure.
+Perfectionism used to be my creative prison.
+Now it's just my first draft.
+
+-
+
+The weirdest side effect of using AI: I became obsessed with my own thought patterns.
+When you have to explain your reasoning to a machine, you notice how messy human thinking actually is.
+AI made me a student of my own mind.
+I learned more about how I think than what I think.

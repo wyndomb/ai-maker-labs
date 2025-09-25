@@ -18,6 +18,9 @@ This is "The AI Maker" newsletter content repository containing Markdown files f
   - **most-performing-notes.md**: Archive of highest-engagement social notes
   - **well-performing-notes.md**: Collection of high-engagement social notes
   - Dated files with new social notes generated from newsletter content
+- **linkedin-posts/**: LinkedIn content repurposing and samples
+  - **linkedin-post-samples**: Archive of high-performing LinkedIn posts showcasing voice and formula
+  - **daily-linkedin-posts/**: Generated LinkedIn posts from newsletter content with timestamps
 - **newsletter-performance-stats.md**: Comprehensive performance data for all published posts
 - **content-strategy-playbook.md**: Detailed conversion funnels and content strategy frameworks
 

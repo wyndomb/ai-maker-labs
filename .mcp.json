@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "firecrawl-mcp": {
+      "command": "npx",
+      "args": ["-y", "firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": "INSERT_YOUR_FIRECRAWL_API_KEY_HERE"
+      }
+    },
+    "perplexity-ask": {
+      "command": "npx",
+      "args": ["-y", "server-perplexity-ask"],
+      "env": {
+        "PERPLEXITY_API_KEY": "INSERT_YOUR_PERPLEXITY_API_KEY_HERE"
+      }
+    }
+  }
+}
